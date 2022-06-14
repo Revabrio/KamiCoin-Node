@@ -3,7 +3,7 @@
 """
 
 #   Здесь требуется вписать сгенерированный адресс кошелька
-MINER_ADDRESS = "9UKrr+qZbB4dzSACNbJL3bhboy1lVA77Nvy/7QaFB5ZU2B67rOvYEdm7k4pZjAaII2XTByKoHZtB0+g5K2OmMw=="
+MINER_ADDRESS = ""
 
 #   Здесь требуется вписать url данной ноды
 MINER_NODE_URL = "http://localhost:5000"
